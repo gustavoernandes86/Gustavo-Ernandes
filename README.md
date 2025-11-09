@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./header.png" alt="Header de boas-vindas" style="width:100%;" />
-</div>
-
 # 👋 Olá! Eu sou o **Gustavo Ernandes**
 
 💻 Desenvolvedor **Full Stack** com foco em **Frontend**.  
