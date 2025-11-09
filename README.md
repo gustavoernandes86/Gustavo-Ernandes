@@ -55,8 +55,9 @@
 
 ### 👀 Visitantes
 <p align="center">
-  <img src="https://profile-counter.glitch.me/GustavoErnandes/count.svg" alt="Contador de visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=GustavoErnandes&color=blueviolet&style=for-the-badge" alt="Contador de visitantes" />
 </p>
+
 
 ---
 
