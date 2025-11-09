@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/half-stack-dev/half-stack-dev/main/header.png" alt="Header de boas-vindas" width="100%" />
+  <img src="./header.png" alt="Header de boas-vindas" style="width:100%;" />
 </div>
 
 # 👋 Olá! Eu sou o **Gustavo Ernandes**
